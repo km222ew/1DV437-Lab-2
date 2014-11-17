@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "splittergrav", "splittergrav\splittergrav.csproj", "{D8C246F8-3E33-4A4B-9A8D-308F63A05109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C246F8-3E33-4A4B-9A8D-308F63A05109}.Debug|x86.ActiveCfg = Debug|x86
+		{D8C246F8-3E33-4A4B-9A8D-308F63A05109}.Debug|x86.Build.0 = Debug|x86
+		{D8C246F8-3E33-4A4B-9A8D-308F63A05109}.Release|x86.ActiveCfg = Release|x86
+		{D8C246F8-3E33-4A4B-9A8D-308F63A05109}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
